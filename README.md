@@ -51,12 +51,6 @@ Soy desarrollador independiente enfocado en construir soluciones técnicas de al
 
 ---
 
-### 📌 Proyectos Destacados
-
-> Fija tus repos principales desde la configuración de tu perfil de GitHub (Customize your pins) para que aparezcan aquí abajo automáticamente.
-
----
-
 <div align="center">
 
 **Contacto:** [LinkedIn](https://www.linkedin.com/in/davidtech1213) · [daviesteban013@gmail.com](mailto:daviesteban013@gmail.com)
