@@ -38,18 +38,6 @@ Soy desarrollador independiente enfocado en construir soluciones técnicas de al
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daviesteban013-debug&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daviesteban013-debug&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
